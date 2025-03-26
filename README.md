@@ -1,5 +1,7 @@
 # E-commerce-
+## Demo Video
 
+Watch the demo video on Google Drive: [Demo Video Link](https://drive.google.com/file/d/1a5uP69ZPcCrZEfqUOVP2DSf1oiX7U2lO/view?usp=sharing)
 ## Description
 This is the back-end API for an e-commerce application built using **Node.js**, **Express.js**, **Sequelize**, and **MySQL**. It allows for the management of categories, products, and tags, and supports **CRUD** operations (Create, Read, Update, Delete). The database is seeded with sample data for testing purposes.
 
