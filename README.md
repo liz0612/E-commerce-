@@ -1,5 +1,4 @@
 # E-commerce-
-# E-commerce Back-End API
 
 ## Description
 This is the back-end API for an e-commerce application built using **Node.js**, **Express.js**, **Sequelize**, and **MySQL**. It allows for the management of categories, products, and tags, and supports **CRUD** operations (Create, Read, Update, Delete). The database is seeded with sample data for testing purposes.
